@@ -12,10 +12,9 @@ const Loader = () => {
         color="#4fa94d"
         ariaLabel="tail-spin-loading"
         radius="1"
-        wrapperStyle={{}}
-        wrapperClass=""
       />
     </div>
   );
 };
+
 export default Loader;
